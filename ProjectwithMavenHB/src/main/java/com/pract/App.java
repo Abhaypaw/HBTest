@@ -21,7 +21,7 @@ public class App {
 
 		Student st = new Student();
 		st.setId(104);
-		st.setName("Ajay");
+		st.setName("Asdf");
 		st.setCity("Pune");
 		 
 		Address ad=new Address();
